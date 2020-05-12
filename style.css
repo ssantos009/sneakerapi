@@ -1,0 +1,53 @@
+#title{
+  text-align: center;
+  background-color: rgb(158, 173, 166);
+  color: white;
+ font-family: 'Modak', cursive;
+}
+.input-group{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-family: 'Modak', cursive;
+}
+.card{
+  margin: 50px;
+  font-family: 'Modak', cursive;
+  background-color: rgb(195, 211, 219);
+}
+#butt{
+  text-align: center;
+  margin-bottom:50px ;
+  font-family: 'Modak', cursive;
+}
+#footer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align:center;
+  background color: rgb(158, 173, 166);
+  color: white;    
+}
+
+#wrap{
+  background-color: black;
+}
+.card-group{
+  margin-bottom: 50px;'
+  background-color: blue;'
+  font-family: 'Modak', cursive;
+}
+.nav-link{
+  font-family: 'Modak', cursive;
+  color: white;
+}
+.container{
+  font-family: 'Modak', cursive;
+}
+#search{
+  background-color: rgb(188, 159, 212);
+}
+.jumbotron{
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Modak', cursive;
+  text-align: center;
+}
